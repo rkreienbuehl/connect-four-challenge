@@ -14,7 +14,7 @@
 * [Server](https://github.com/lakermann/connect-four-challenge-server)
 * Clients
   * [Java](https://github.com/lakermann/connect-four-challenge-client-java)
-  * Python
+  * [Python](https://github.com/lakermann/connect-four-challenge-client-python)
   * Elixir
 * [Tournament Management](https://kickertool.com)
 
